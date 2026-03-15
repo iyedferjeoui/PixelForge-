@@ -52,12 +52,11 @@ Feel free to clone it, run it, and modify it to learn! 🚀
 
 | Original | Grayscale | Sepia |
 |----------|-----------|-------|
-| ![original](sample.jpg) | ![grayscale](samples/grayscale.jpg) | ![sepia](samples/sepia.jpg) |
+| ![original](sample.jpg) | ![grayscale](grayscale.jpg) | ![sepia](sepia.jpg) |
 
 | Red Filter | Edge Detection | Pixelate |
 |------------|---------------|----------|
-| ![red](samples/red.jpg) | ![edges](samples/edge_detection.jpg) | ![pixelate](samples/pixelate.jpg) |
-
+| ![red](red.jpg) | ![edges](edge_detection.jpg) | ![pixelate](pixelate.jpg) |
 ---
 
 ## 🛠️ Requirements
