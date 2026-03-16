@@ -50,13 +50,15 @@ Feel free to clone it, run it, and modify it to learn! 🚀
 
 ## 📸 Sample Results
 
+## 📸 Sample Results
+
 | Original | Grayscale | Sepia |
 |----------|-----------|-------|
-| ![original](sample.jpg) | ![grayscale](grayscale.jpg) | ![sepia](sepia.jpg) |
+| ![original](samples/sample.jpg) | ![grayscale](samples/grayscale.jpg) | ![sepia](samples/sepia.jpg) |
 
 | Red Filter | Edge Detection | Pixelate |
 |------------|---------------|----------|
-| ![red](red.jpg) | ![edges](edge_detection.jpg) | ![pixelate](pixelate.jpg) |
+| ![red](samples/red.jpg) | ![edges](samples/edge_detection.jpg) | ![pixelate](samples/pixelate.jpg) |
 ---
 
 ## 🛠️ Requirements
