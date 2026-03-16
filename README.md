@@ -54,7 +54,7 @@ Feel free to clone it, run it, and modify it to learn! 🚀
 
 | Original | Grayscale | Sepia |
 |----------|-----------|-------|
-| ![original](samples/sample.jpg) | ![grayscale](samples/grayscale.jpg) | ![sepia](samples/sepia.jpg) |
+| ![original](sample.jpg) | ![grayscale](samples/grayscale.jpg) | ![sepia](samples/sepia.jpg) |
 
 | Red Filter | Edge Detection | Pixelate |
 |------------|---------------|----------|
